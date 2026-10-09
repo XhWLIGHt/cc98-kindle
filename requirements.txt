@@ -1,0 +1,2 @@
+# 可选依赖:用于 WebP 图片转码和 Unicode emoji 渲染;不装也能运行(图片/emoji 会降级)
+pillow

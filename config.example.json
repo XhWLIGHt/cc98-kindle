@@ -1,0 +1,19 @@
+{
+  "username": "",
+  "password": "",
+  "host": "0.0.0.0",
+  "port": 8000,
+  "access_key": "",
+  "posts_per_page": 10,
+  "topics_per_page": 20,
+  "font_size_px": 34,
+  "line_height": 1.8,
+  "show_images": true,
+  "show_image_url": false,
+  "show_emoticons": true,
+  "emoji_as_image": true,
+  "image_max_kb": 2048,
+  "allow_external_links": true,
+  "request_timeout": 15,
+  "cache_ttl": 60
+}

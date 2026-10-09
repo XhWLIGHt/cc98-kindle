@@ -1,0 +1,12 @@
+# 本地配置与凭据(含账号密码、令牌,绝不提交)
+config.json
+token.json
+token.json.tmp
+
+# 运行时缓存
+emoji_cache/
+__pycache__/
+*.pyc
+
+# 日志等杂项
+*.log
